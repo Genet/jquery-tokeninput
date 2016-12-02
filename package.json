@@ -2,6 +2,9 @@
   "name": "jquery.tokeninput",
   "version": "2.0.0",
   "main": "build/jquery.tokeninput.min.js",
+  "scripts": {
+    "build": "grunt"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.1.0",
